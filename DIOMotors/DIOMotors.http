@@ -1,0 +1,6 @@
+@DIOMotors_HostAddress = http://localhost:5182
+
+GET {{DIOMotors_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
